@@ -33,4 +33,4 @@ Databasen lagrer informasjon om pizzaer, ingredienser, bestillinger og kundehist
 
 ## Se og prøv prosjektet på din egen pc
 
-Du kan se prosjektet gjennom lenken https://github.com/akselkirk/prosjekt_eksempel og prøve det ut med gjøre '''git clone https://github.com/akselkirk/prosjekt_eksempel''' request i terminalen.
+Du kan se prosjektet gjennom lenken https://github.com/akselkirk/prosjekt_eksempel og prøve det ut med gjøre `git clone https://github.com/akselkirk/prosjekt_eksempel` request i terminalen.
