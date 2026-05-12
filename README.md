@@ -30,3 +30,7 @@ Prosjektet benytter en klassisk tre-lags arkitektur:
 3. **Datalagsystem** - MariaDB database for lagring av produkter, bestillinger og kundedata
 
 Databasen lagrer informasjon om pizzaer, ingredienser, bestillinger og kundehistorikk, mens Flask-serveren håndterer API-er og serverlogikk.
+
+## Se og prøv prosjektet på din egen pc
+
+Du kan se prosjektet gjennom lenken https://github.com/akselkirk/prosjekt_eksempel og prøve det ut med gjøre '''git clone https://github.com/akselkirk/prosjekt_eksempel''' request i terminalen.
