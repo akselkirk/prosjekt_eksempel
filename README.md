@@ -8,10 +8,10 @@ Peace Pizza er en fiktiv pizzabutikk lokalisert i hjertet av Oslo. Vi tilbyr aut
 
 Dette prosjektet er en funksjonsrik nettside for Peace Pizza. Målet er å lage en komplett e-handel-løsning der kunder kan:
 
-- Browsing menu og se tilgjengelige pizzaer
+- Se menyen og tilgjengelige pizzaer
 - Legge pizzaer i handlevogn
-- Gjøre bestillinger online
-- Spore bestillingsstatus
+- Gjøre bestillinger
+- Se bestillingsstatus
 
 ### Teknologi Stack
 
@@ -20,14 +20,6 @@ Dette prosjektet er en funksjonsrik nettside for Peace Pizza. Målet er å lage 
 - **Frontend**: HTML, CSS, JavaScript
 - **Server**: Flask development/production server
 - **Hardware**: Raspberry Pi for hosting av database og server
-
-### Arkitektur
-
-Prosjektet benytter en klassisk tre-lags arkitektur:
-
-1. **Presentasjonslag** - Web-grensesnitt for brukere
-2. **Applikasjonslag** - Flask server som håndterer forretningslogikk
-3. **Datalagsystem** - MariaDB database for lagring av produkter, bestillinger og kundedata
 
 Databasen lagrer informasjon om pizzaer, ingredienser, bestillinger og kundehistorikk, mens Flask-serveren håndterer API-er og serverlogikk.
 
